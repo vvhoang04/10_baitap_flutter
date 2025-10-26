@@ -1,0 +1,44 @@
+# File rác của các Hệ điều hành
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# File rác của Flutter
+*.apk
+*.aab
+*.ipa
+*.app
+
+# Thư mục build (QUAN TRỌNG NHẤT)
+build/
+
+# Thư mục Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# File của IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# File do Flutter sinh ra
+flutter_local_notifications.log
+app_plugin_loader.log
+
+# File được sinh ra bởi build_runner (như Hive)
+*.g.dart
+*.freezed.dart
+
+# Các file cấu hình Firebase (BẢO MẬT)
+# (Trừ khi bạn muốn chia sẻ, nhưng không nên)
+# google-services.json
+# GoogleService-Info.plist
+# lib/firebase_options.dart
