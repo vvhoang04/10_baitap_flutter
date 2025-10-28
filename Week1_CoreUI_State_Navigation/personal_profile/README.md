@@ -14,11 +14,10 @@ Mục tiêu của dự án này là làm quen với các widget layout cơ bản
 
 ## 🖼️ Ảnh chụp màn hình
 
-*(Bạn hãy thêm ảnh chụp màn hình ứng dụng của mình ở đây!)*
 
 | Chế độ Sáng (Light Mode) | Chế độ Tối (Dark Mode) |
-| :---: | :---: |
-| <img src="URL_ANH_SANG.png" width="300"> | <img src="URL_ANH_TOI.png" width="300"> |
+| ![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/524294f82a8e8699a90c91070ff84a238565cdfe/Week1_CoreUI_State_Navigation/personal_profile/img_profile1.png) | ![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/524294f82a8e8699a90c91070ff84a238565cdfe/Week1_CoreUI_State_Navigation/personal_profile/img_profile2.png) |
+
 
 ## 🛠️ Yêu cầu kỹ thuật đã sử dụng
 
