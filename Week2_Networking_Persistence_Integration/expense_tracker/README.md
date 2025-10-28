@@ -19,11 +19,11 @@
 
 ## 🖼️ Ảnh chụp màn hình
 
-*(Bạn hãy thêm ảnh chụp màn hình ứng dụng của mình ở đây!)*
+
 
 | Danh sách Chi tiêu | Biểu đồ Thống kê |
 | :---: | :---: |
-| <img src="URL_ANH_DANH_SACH_CHI_TIEU.png" width="300"> | <img src="URL_ANH_BIEU_DO_CHI_TIEU.png" width="300"> |
+| ![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/24e643f920966b945cee5628c189971d3f61737c/Week2_Networking_Persistence_Integration/expense_tracker/img_tracker1.png) | ![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/24e643f920966b945cee5628c189971d3f61737c/Week2_Networking_Persistence_Integration/expense_tracker/img_tracker2.png) | 
 
 ## 🛠️ Yêu cầu kỹ thuật đã sử dụng
 
