@@ -15,11 +15,12 @@ Project này tập trung vào việc tích hợp các tính năng phần cứng 
 
 ## 🖼️ Ảnh chụp màn hình
 
-*(Bạn hãy thêm ảnh chụp màn hình ứng dụng của mình ở đây!)*
-
 | Giao diện chính |
 | :---: |
-| <img src="URL_ANH_GALLERY.png" width="300"> |
+
+![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/d4d3840752e99f0f4a0fbdeb91874bbd8bf2578e/Week2_Networking_Persistence_Integration/photo_gallery/img_photo1.png)
+
+![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/d4d3840752e99f0f4a0fbdeb91874bbd8bf2578e/Week2_Networking_Persistence_Integration/photo_gallery/img_photo2.png)
 
 ## 🛠️ Yêu cầu kỹ thuật đã sử dụng
 
