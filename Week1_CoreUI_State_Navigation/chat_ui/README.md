@@ -16,7 +16,7 @@ Project này là bài tập quan trọng để làm chủ `Row`, `Column` và `C
 
 | Giao diện chính |
 | :---: |
-| <img src="URL_ANH_CHAT_UI.png" width="300"> |
+| ![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/ad28afae3481930941cc75c9bfe8127cb4af6af8/Week1_CoreUI_State_Navigation/chat_ui/img_chat_ui.png) |
 
 ## 🛠️ Yêu cầu kỹ thuật đã sử dụng
 
