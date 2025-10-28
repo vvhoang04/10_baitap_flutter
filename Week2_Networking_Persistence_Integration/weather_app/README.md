@@ -14,11 +14,9 @@ tập trung vào việc lấy dữ liệu từ bên ngoài (Internet và cảm b
 
 ## 🖼️ Ảnh chụp màn hình
 
-*(Bạn hãy thêm ảnh chụp màn hình ứng dụng của mình ở đây!)*
-
-| Giao diện chính | Trạng thái Lỗi (Error) |
-| :---: | :---: |
-| <img src="URL_ANH_THOI_TIET.png" width="300"> | <img src="URL_ANH_BAO_LOI.png" width="300"> |
+| Giao diện chính |
+| :---: |
+| ![iamge alt](https://github.com/vvhoang04/10_baitap_flutter/blob/ee94018b9c3726c9063695116e67317096a13d16/Week2_Networking_Persistence_Integration/weather_app/img_weather.png) |
 
 ## 🛠️ Yêu cầu kỹ thuật đã sử dụng
 
