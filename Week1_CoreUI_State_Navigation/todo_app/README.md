@@ -16,9 +16,11 @@ Mục tiêu chính là hiểu rõ cách `StatefulWidget` và hàm `setState()` h
 
 ## 🖼️ Ảnh chụp màn hình
 
-*(Bạn hãy thêm ảnh chụp màn hình ứng dụng của mình ở đây!)*
+![Ảnh chụp màn hình Todo App]
 
-![Ảnh chụp màn hình Todo App](URL_ANH_TODO_APP.png)
+![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/6136c47d1086406d777ee88f7f9fcb473fcf60aa/Week1_CoreUI_State_Navigation/todo_app/img_todo1.png)
+
+![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/6136c47d1086406d777ee88f7f9fcb473fcf60aa/Week1_CoreUI_State_Navigation/todo_app/img_todo2.png)
 
 ## 🛠️ Yêu cầu kỹ thuật đã sử dụng
 
