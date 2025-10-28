@@ -16,11 +16,9 @@
 
 ## 🖼️ Ảnh chụp màn hình
 
-*(Bạn hãy thêm ảnh chụp màn hình ứng dụng của mình ở đây!)*
-
 | Giao diện chính |
 | :---: |
-| <img src="URL_ANH_NHAC_NHO.png" width="300"> |
+| ![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/3211ab42424043ca02819ed4be531da338e13996/Week2_Networking_Persistence_Integration/reminder_app/img_remider.png) |
  
 ## 🛠️ Yêu cầu kỹ thuật đã sử dụng
 
