@@ -16,11 +16,9 @@
 
 ## 🖼️ Ảnh chụp màn hình
 
-*(Bạn hãy thêm ảnh chụp màn hình ứng dụng của mình ở đây!)*
-
 | Màn hình Danh sách | Màn hình Thêm/Sửa |
 | :---: | :---: |
-| <img src="URL_ANH_DANH_SACH_NOTE.png" width="300"> | <img src="URL_ANH_THEM_SUA_NOTE.png" width="300"> |
+| ![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/1a90743d3117150dc6d846e2a26ba51a482e52d3/Week1_CoreUI_State_Navigation/note_app/img_note1.png) | ![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/1a90743d3117150dc6d846e2a26ba51a482e52d3/Week1_CoreUI_State_Navigation/note_app/img_note2.png) |
 
 ## 🛠️ Yêu cầu kỹ thuật đã sử dụng
 
