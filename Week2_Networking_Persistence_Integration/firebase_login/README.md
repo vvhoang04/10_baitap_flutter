@@ -19,11 +19,18 @@ Tập trung vào việc tích hợp một dịch vụ backend thực thụ: **Fi
 
 ## 🖼️ Ảnh chụp màn hình
 
-*(Bạn hãy thêm ảnh chụp màn hình ứng dụng của mình ở đây!)*
+
 
 | Màn hình Đăng nhập | Màn hình Đăng ký | Màn hình Trang chủ |
 | :---: | :---: | :---: |
-| <img src="URL_ANH_DANG_NHAP.png" width="300"> | <img src="URL_ANH_DANG_KY.png" width="300"> | <img src="URL_ANH_TRANG_CHU.png" width="300"> |
+
+![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/9e10346b64ebb191b062d6986959b2cb120f56d5/Week2_Networking_Persistence_Integration/firebase_login/img_login.png)
+
+![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/9e10346b64ebb191b062d6986959b2cb120f56d5/Week2_Networking_Persistence_Integration/firebase_login/img_register.png)
+
+![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/9e10346b64ebb191b062d6986959b2cb120f56d5/Week2_Networking_Persistence_Integration/firebase_login/img_trangchu.png))
+
+![image alt](https://github.com/vvhoang04/10_baitap_flutter/blob/9e10346b64ebb191b062d6986959b2cb120f56d5/Week2_Networking_Persistence_Integration/firebase_login/img_firebase.png))
 
 ## 🛠️ Yêu cầu kỹ thuật đã sử dụng
 
