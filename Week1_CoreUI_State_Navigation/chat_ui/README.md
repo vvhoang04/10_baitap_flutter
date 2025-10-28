@@ -14,8 +14,6 @@ Project này là bài tập quan trọng để làm chủ `Row`, `Column` và `C
 
 ## 🖼️ Ảnh chụp màn hình
 
-*(Bạn hãy thêm ảnh chụp màn hình ứng dụng của mình ở đây!)*
-
 | Giao diện chính |
 | :---: |
 | <img src="URL_ANH_CHAT_UI.png" width="300"> |
