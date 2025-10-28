@@ -18,11 +18,10 @@ Mục tiêu chính của dự án này là học cách xử lý lập trình b�
 
 ## 🖼️ Ảnh chụp màn hình
 
-(Bạn hãy thêm ảnh chụp màn hình ứng dụng của mình ở đây!)
-
 | Giao diện chính | Trạng thái Lỗi (Error) |
 | :---: | :---: |
-| <img src="URL_ANH_GIAO_DIEN_CHINH.png" width="300"> | <img src="URL_ANH_TRANG_THAI_LOI.png" width="300"> |
+| ![image](https://github.com/vvhoang04/10_baitap_flutter/blob/35201b1d48e622ab768846aa46bf9c8d91753502/Week1_CoreUI_State_Navigation/news_reader/img_news1.png)
+![image](https://github.com/vvhoang04/10_baitap_flutter/blob/35201b1d48e622ab768846aa46bf9c8d91753502/Week1_CoreUI_State_Navigation/news_reader/img_news2.png) |
 
 ## 🛠️ Tính năng & Kỹ thuật đã sử dụng
 
