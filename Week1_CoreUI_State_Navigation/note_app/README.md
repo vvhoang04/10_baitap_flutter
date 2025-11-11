@@ -1,5 +1,6 @@
 # Project 5: Ứng dụng Ghi chú (Sử dụng Provider)
-
+Họ và tên: Võ Văn Hoàng
+MSV: 22IT105
 Đây là project nâng cao về quản lý trạng thái (State Management). Thay vì dùng `setState` (chỉ có tác dụng trong một widget), chúng ta chuyển sang sử dụng **Provider** để quản lý trạng thái toàn ứng dụng (app-wide state).
 
 Ứng dụng cho phép người dùng tạo, xem, sửa, và xóa các ghi chú. Dữ liệu ghi chú được chia sẻ trên nhiều màn hình (Màn hình danh sách và Màn hình chỉnh sửa) một cách liền mạch.
